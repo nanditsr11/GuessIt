@@ -19,7 +19,7 @@ A simple and engaging number-guessing game built with HTML, CSS, and JavaScript.
 
 ## Getting Started
 1. Clone or download the repository.
-2. Open the `index.html` file in any modern web browser to play the game.
+2. Open the `index.html` file in any modern web browser to play the game. 
 
 ## How to Play
 1. Upon starting, enter your name when prompted.
