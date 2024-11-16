@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Higher, Lower, or Equal</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="game-container">
+    <h1>Higher, Lower, or Equal</h1>
+    <div id="player-info">
+      <p>Welcome, <span id="player-name-display"></span>!</p>
+      <p>Your Highest Score: <span id="highest-score">0</span></p>
+    </div>
+    <div class="game-area">
+      <p>Current Number: <span id="current-number"></span></p>
+      <p id="game-result"></p>
+      <button id="higher">Higher</button>
+      <button id="lower">Lower</button>
+      <button id="equal">Equal</button>
+    </div>
+    <div class="score-area">
+      <p>Score this round: <span id="current-score">0</span></p>
+    </div>
+    <div id="restart-area" class="hidden">
+      <button id="restart">Play Again</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
