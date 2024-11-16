@@ -1,4 +1,4 @@
-# GuessIt - Higher, Lower, or Equal
+# GuessIt - Higher, Lower, or Equal !!!!
 
 A simple and engaging number-guessing game built with HTML, CSS, and JavaScript.
 
@@ -39,5 +39,13 @@ To change the range of random numbers:
     return Math.floor(Math.random() * <YOUR_RANGE>) + <MIN_VALUE>;
   }
 
+## Change Styles
+To modify the look and feel of the game:
 
-"main.py" contains the code to run the app on terminal.
+  - Open styles.css.
+  - Update styles like colors, fonts, or layouts as desired.
+
+- "main.py" contains the code to run the app on terminal.
+
+## License
+This project is released under the MIT License. Feel free to use, modify, and distribute it as you like.
